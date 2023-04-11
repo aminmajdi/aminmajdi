@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am actively looking for a job (starting Fall)<br>I am currently writing my master's thesis on a robotic/RL project<br>I am currently learning more about Time series in machine learning<br>I am currently learning more about AWS<br>(he/his)<br>How to reach me: Email: Amin_majdi@student.uml.edu, Linkedin: www.linkedin.com/in/amin-made
+I am actively looking for a job (starting Fall)<br>I am currently writing my master's thesis on a robotic/RL project<br>I am currently learning more about Time series in machine learning<br>I am currently learning more about AWS<br>(he/his)<br>How to reach me: Email: Amin_majdi@student.uml.edu, Linkedin: www.linkedin.com/in/amin-made<br>https://github.com/aminmajdi/resume_projects
 
 
 ## 🌐 Socials:
