@@ -1,8 +1,10 @@
 
 # 💫 About Me:
 I am actively looking for a job (starting Fall)<br>I am currently writing my master's thesis on a robotic/RL project<br>I am currently learning more about Time series in machine learning<br>I am currently learning more about AWS<br>(he/his)<br>How to reach me: Email: Amin_majdi@student.uml.edu, Linkedin: www.linkedin.com/in/amin-made
-# 💫 To check my projects please visit: https://github.com/aminmajdi/resume_projects
-# 💫 To see my certificates please visit: https://github.com/aminmajdi/resume_projects/tree/main/Certificates/kaggle_certificates
+# 💫 To check my projects please visit: 
+https://github.com/aminmajdi/resume_projects
+# 💫 To see my certificates please visit: 
+https://github.com/aminmajdi/resume_projects/tree/main/Certificates/kaggle_certificates
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amin-majdi) 
