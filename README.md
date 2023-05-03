@@ -4,7 +4,7 @@ I am actively looking for a job (starting Fall)<br>I am currently writing my mas
 # 💫 To check my projects please visit: 
 https://github.com/aminmajdi/resume_projects
 # 💫 To see my certificates please visit: 
-https://github.com/aminmajdi/resume_projects/tree/main/Certificates/kaggle_certificates
+https://github.com/aminmajdi/resume_projects/tree/main/Certificates
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amin-majdi) 
